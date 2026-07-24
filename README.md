@@ -1,4 +1,4 @@
-<h1 align="center">Ciao, sono Manuel 👋</h1>
+<h1 align="center">Hi, I'm Manuel 👋</h1>
 <h3 align="center">Backend Developer · Microsoft Ecosystem · Jesolo, IT</h3>
 
 <p align="center">
@@ -8,19 +8,23 @@
 
 ---
 
-### Chi sono
+Backend Developer with over 3 years of experience in the Microsoft ecosystem, specializing in designing and developing scalable backend solutions for enterprise applications.
 
-Backend Developer con oltre 3 anni di esperienza nell'ecosistema Microsoft, specializzato nella progettazione e sviluppo di soluzioni backend scalabili per applicazioni enterprise. Lavoro su software business-critical in produzione, applicando principi di clean architecture, design pattern moderni e best practice di sviluppo.
+My expertise includes C#, .NET, ASP.NET Core, Blazor, SQL Server, Entity Framework Core, and RESTful APIs. I enjoy building reliable, maintainable, and high-performance software by applying clean architecture principles, modern design patterns, and best development practices.
 
-- 🏗️ Ho progettato e mantengo il backend e l'infrastruttura di un applicativo enterprise che ha ottenuto la **certificazione DDMRP (Demand Driven MRP)**
-- 📦 Sono il **manutentore software** dell'applicativo **WMS** (Warehouse Management System) aziendale
-- 🤖 Appassionato di **AI-assisted development**, automazione e IoT — uso tool AI per accelerare lo sviluppo e migliorare i workflow
-- 🏠 Nel tempo libero costruisco progetti personali di home automation, dispositivi embedded e sistemi intelligenti
-- ✍️ Condivido contenuti tecnici tramite articoli, video e progetti open-source
+Throughout my career, I have worked on business-critical applications, contributing to the design, development, and optimization of software used in production environments. Among these, I designed and maintained the backend and infrastructure of an enterprise application that achieved Demand Driven MRP (DDMRP) certification, a rigorous industry standard recognizing systems built to properly support demand-driven planning and execution. I am also the software maintainer of the company's WMS (Warehouse Management System) application, ensuring its reliability and evolution in production. I focus on writing clean, maintainable code, improving system performance, and delivering solutions that create real business value.
+
+I am also passionate about AI-assisted development, automation, and IoT. I enjoy leveraging AI tools to accelerate software delivery, improve development workflows, and explore innovative solutions. In my spare time, I work on personal projects involving home automation, embedded devices, and intelligent systems.
+
+I actively share technical content with the developer community through articles, videos, and open-source projects, with the goal of helping other developers grow while continuously expanding my own knowledge.
+
+I am always interested in challenging projects, innovative technologies, and opportunities to build software that makes a meaningful impact.
+
+🔗 Check out my latest project: **[SQL Guard](https://sqlguard.app)** — a free SQL Server Management Studio extension that intercepts potentially destructive queries before execution.
 
 ---
 
-### Stack tecnico
+### Tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
@@ -35,30 +39,9 @@ Backend Developer con oltre 3 anni di esperienza nell'ecosistema Microsoft, spec
 
 ---
 
-### Progetti in evidenza
-
-<p align="left">
-  <a href="https://github.com/ManuelEnzo/MyEntityFramework">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuelEnzo&repo=MyEntityFramework&theme=default" />
-  </a>
-  <a href="https://github.com/ManuelEnzo/WebApi-RestClient">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuelEnzo&repo=WebApi-RestClient&theme=default" />
-  </a>
-</p>
-
-- **[MyEntityFramework](https://github.com/ManuelEnzo/MyEntityFramework)** — libreria con implementazione generica per gestire Data Transfer Objects con Entity Framework
-- **[WebApi-RestClient](https://github.com/ManuelEnzo/WebApi-RestClient)** — libreria per semplificare le chiamate a servizi web REST, integrata con `HttpClientFactory`
-- **[SQL Guard](https://sqlguard.app)** — estensione gratuita per SQL Server Management Studio che intercetta query potenzialmente distruttive (DROP, TRUNCATE, DELETE/UPDATE senza WHERE) prima dell'esecuzione, prevenendo incidenti in produzione
-
----
-
 ### GitHub stats
 
 <p align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManuelEnzo&show_icons=true&theme=default&hide_border=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelEnzo&layout=compact&theme=default&hide_border=true" />
 </p>
-
----
-
-<p align="center"><i>Sempre interessato a progetti sfidanti, tecnologie innovative e software che fa la differenza.</i></p>
