@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Manuel 👋</h1>
-<h3 align="center">Backend Developer · Microsoft Ecosystem · Jesolo, IT</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:239120&height=200&section=header&text=Manuel%20Enzo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Microsoft%20Ecosystem&descAlignY=55&descSize=18&descColor=ffffff" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5C2D91&center=true&vCenter=true&width=650&lines=Building+scalable+.NET+backends;C%23+%C2%B7+ASP.NET+Core+%C2%B7+Blazor+%C2%B7+SQL+Server;AI-assisted+development+%2B+automation+%2B+IoT" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://twitter.com/manuelenzo22"><img src="https://img.shields.io/badge/Twitter-@manuelenzo22-1DA1F2?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://youtube.com/@manuelenzo28"><img src="https://img.shields.io/badge/YouTube-@manuelenzo28-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ManuelEnzo&style=flat&color=5C2D91&label=Profile+views" />
 </p>
 
 ---
@@ -20,28 +24,41 @@ I actively share technical content with the developer community through articles
 
 I am always interested in challenging projects, innovative technologies, and opportunities to build software that makes a meaningful impact.
 
-🔗 Check out my latest project: **[SQL Guard](https://sqlguard.app)** — a free SQL Server Management Studio extension that intercepts potentially destructive queries before execution.
+<p align="center">
+  <a href="https://sqlguard.app">
+    <img src="https://img.shields.io/badge/SQL_Guard-Free_SSMS_Extension-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+  <br/>
+  <sub>sqlguard.app</sub>
+</p>
 
 ---
 
 ### Tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,azure,vscode" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### GitHub stats
+### GitHub activity
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ManuelEnzo&show_icons=true&theme=default&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelEnzo&layout=compact&theme=default&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=ManuelEnzo&theme=default&hide_border=true&background=ffffff00" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelEnzo/ManuelEnzo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuelEnzo/ManuelEnzo/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ManuelEnzo/ManuelEnzo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:5C2D91&height=100&section=footer" />
