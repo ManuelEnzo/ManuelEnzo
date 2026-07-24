@@ -10,31 +10,44 @@
   <img src="https://komarev.com/ghpvc/?username=ManuelEnzo&style=flat&color=5C2D91&label=Profile+views" />
 </p>
 
+<h3 align="center"><i>A backend developer who believes clean code and solid architecture aren't optional — they're how you sleep well after a deploy.</i></h3>
+
 ---
 
-Backend Developer with over 3 years of experience in the Microsoft ecosystem, specializing in designing and developing scalable backend solutions for enterprise applications.
+### 💼 What I do
 
-My expertise includes C#, .NET, ASP.NET Core, Blazor, SQL Server, Entity Framework Core, and RESTful APIs. I enjoy building reliable, maintainable, and high-performance software by applying clean architecture principles, modern design patterns, and best development practices.
+- Design and build scalable backend systems in the Microsoft stack — C#, .NET, ASP.NET Core, Blazor, SQL Server, Entity Framework Core, RESTful APIs
+- Own business-critical applications end to end: architecture, delivery, and everything that keeps them running smoothly in production
+- Turn business rules into clean, maintainable code that still makes sense six months later — to me and to whoever reads it next
 
-Throughout my career, I have worked on business-critical applications, contributing to the design, development, and optimization of software used in production environments. Among these, I designed and maintained the backend and infrastructure of an enterprise application that achieved Demand Driven MRP (DDMRP) certification, a rigorous industry standard recognizing systems built to properly support demand-driven planning and execution. I am also the software maintainer of the company's WMS (Warehouse Management System) application, ensuring its reliability and evolution in production. I focus on writing clean, maintainable code, improving system performance, and delivering solutions that create real business value.
+### 🏆 Career highlights
 
-I am also passionate about AI-assisted development, automation, and IoT. I enjoy leveraging AI tools to accelerate software delivery, improve development workflows, and explore innovative solutions. In my spare time, I work on personal projects involving home automation, embedded devices, and intelligent systems.
+- 🎯 Designed and maintained the backend and infrastructure of an enterprise application that achieved **DDMRP** (Demand Driven MRP) certification — a standard with little tolerance for sloppy data flow
+- 🏭 Software maintainer of the company's **WMS** (Warehouse Management System) — a system that never gets a "closed for maintenance" sign, so it has to just work
 
-I actively share technical content with the developer community through articles, videos, and open-source projects, with the goal of helping other developers grow while continuously expanding my own knowledge.
+### 🧪 Currently exploring
 
-I am always interested in challenging projects, innovative technologies, and opportunities to build software that makes a meaningful impact.
+- 🤖 AI-assisted development — treating AI tools as a force multiplier for delivery and workflow, not a shortcut around understanding the problem
+- 🏠 Home automation, embedded devices, and IoT — because the day job apparently isn't enough soldering
+- ⚙️ Automation, wherever it removes a repetitive step worth removing
 
-<p align="center">
+### 🛠️ Side project
+
+<p align="left">
   <a href="https://sqlguard.app">
     <img src="https://img.shields.io/badge/SQL_Guard-Free_SSMS_Extension-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   </a>
-  <br/>
-  <sub>sqlguard.app</sub>
 </p>
+
+Born from one unfiltered `DELETE` too many — **[SQL Guard](https://sqlguard.app)** is a free SQL Server Management Studio extension that catches destructive queries (`DROP`, `TRUNCATE`, `DELETE`/`UPDATE` without a `WHERE`) before they run, so they stay a close call instead of an incident report.
+
+### ✍️ Sharing what I learn
+
+I write, record, and open-source what I figure out along the way — partly to help other developers, partly because explaining something properly is the fastest way to find out whether I actually understood it.
 
 ---
 
-### Tech stack
+### 🧰 Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,azure,vscode" />
@@ -49,7 +62,7 @@ I am always interested in challenging projects, innovative technologies, and opp
 
 ---
 
-### GitHub activity
+### 📈 GitHub activity
 
 <p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=ManuelEnzo&theme=default&hide_border=true&background=ffffff00" />
